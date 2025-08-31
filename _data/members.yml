@@ -7,15 +7,6 @@
   mainpage: ""
   discord: "wtq9Uwxm8W"
 - member:
-  id: "conkerwiki"
-  name: "Conker Wiki"
-  description: "Conker Wiki is a wiki covering the Conker series of games. Since April 2019, Conker Wiki has been hosted by Grifkuba."
-  logo: "/images/logos/conker.png"
-  url: "https://gamingwikinetwork.org/warn/conkerwiki"
-  mainpage: "Main_Page"
-  discord: "s7fyT4E"
-  age: 17+
-- member:
   id: "crashbandicootwiki"
   name: "Crash Bandicoot Wiki"
   description: "Crash Bandicoot Wiki covers the entire Crash Bandicoot franchise. It was created partially in response to Super Mario Wiki's 2017 April Fool's joke, when they briefly rebranded as 'Crash Bandicoot Wiki.' Two years later, in 2019, a few people made it into reality, as no independent wiki for Crash Bandicoot existed yet."
