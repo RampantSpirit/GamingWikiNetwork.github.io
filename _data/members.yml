@@ -22,15 +22,6 @@
   url: "https://cyberflix.wiki.gg/wiki/Cyberflix_Wiki"
   mainpage: "Main_Page"
 - member:
-  id: "dacw"
-  name: "Dune: Awakening Community Wiki"
-  description: "The Dune: Awakening Community Wiki is the community knowledge base for everything to do with Funcom's latest and boldest MMO Survival game, set on the sands of Arrakis in Frank Herbert's DUNE, in collaboration with from the publishers of Denis Villeneuve's latest movies, Legendary."
-  logo: "/images/logos/duneawakeningcommunitywiki.png"
-  url: "https://gamingwikinetwork.org/warn/dacw"
-  mainpage: ""
-  discord: "K6xgpKqMTj"
-  age: 18+
-- member:
   id: "discoelysiumwiki"
   name: "Disco Elysium Wiki Project"
   description: "Disco Elysium Wiki Project is a never-ending collaborative project to create a wiki for the game Disco Elysium, an award winning CRPG from 2019. Disco Elysium boasts over 1 million words of dialogue, and inspired a new wave of role playing games."
@@ -38,6 +29,15 @@
   url: "https://gamingwikinetwork.org/warn/discoelysiumwikiproject"
   mainpage: ""
   discord: "DxYSDEEaYd"
+  age: 18+
+- member:
+  id: "dacw"
+  name: "Dune: Awakening Community Wiki"
+  description: "The Dune: Awakening Community Wiki is the community knowledge base for everything to do with Funcom's latest and boldest MMO Survival game, set on the sands of Arrakis in Frank Herbert's DUNE, in collaboration with from the publishers of Denis Villeneuve's latest movies, Legendary."
+  logo: "/images/logos/duneawakeningcommunitywiki.png"
+  url: "https://gamingwikinetwork.org/warn/dacw"
+  mainpage: ""
+  discord: "K6xgpKqMTj"
   age: 18+
 - member:
   id: "falloutwiki"
