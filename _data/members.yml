@@ -169,14 +169,6 @@
   mainpage: "SaGa_Wiki"
   discord: "QEUNvDM"
 - member:
-  id: "speedrunwiki"
-  name: "Speedrunwiki"
-  description: "Speedrunwiki is a collaboratively edited, free encyclopedia for all the things about speedrunning. Everyone can edit and create articles related to the speedrunning world."
-  logo: "/images/logos/speedrunwiki.png"
-  url: "https://www.speedrunwiki.com/"
-  mainpage: "Main_Page"
-  discord: "XCazaEVNzT"
-- member:
   id: "spyrowiki"
   name: "Spyro Wiki"
   description: "Spyro Wiki is a wiki covering all things Spyro and Skylanders. Spyro Wiki can be considered a spiritual successor to Spyropedia, a former independent Spyro wiki that has since gone offline. Spyro Wiki was set up around the same time as its complementary wiki, Crash Bandicoot Wiki."
