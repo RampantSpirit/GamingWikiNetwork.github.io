@@ -15,6 +15,17 @@
   mainpage: "Main_Page"
   discord: "c4F2rRc"
 - member:
+  id: "cookierunwiki"
+  name: "Cookie Run Wiki"
+  description: "The Cookie Run Wiki is an independent, collaborative wiki that covers everything about the Cookie Run franchise and its various universes. From coverage on characters and game mechanics to stories and world lore, this wiki is your go-to resource for any information related to any game in the Cookie Run series."
+  logo: "/images/logos/cookierunwiki.png"
+  url: "https://cookierun.wiki/"
+  mainpage: "Cookie_Run_Wiki"
+  discord: "vKKZNmhrYQ"
+  twitter: "crwiki"
+  facebook: "cookierunwiki"
+  bluesky: "cookierun.wiki"
+- member:
   id: "cyberflixwiki"
   name: "Cyberflix Wiki"
   description: "Cyberflix Wiki is all about CyberFlix Incorporated, a computer game company founded in 1993, who created several interactive story-telling games including Titanic: Adventure Out of Time and Dust: A Tale of the Wired West."
