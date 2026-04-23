@@ -7,14 +7,6 @@
   mainpage: ""
   discord: "wtq9Uwxm8W"
 - member:
-  id: "crashbandicootwiki"
-  name: "Crash Bandicoot Wiki"
-  description: "Crash Bandicoot Wiki covers the entire Crash Bandicoot franchise. It was created partially in response to Super Mario Wiki's 2017 April Fool's joke, when they briefly rebranded as 'Crash Bandicoot Wiki.' Two years later, in 2019, a few people made it into reality, as no independent wiki for Crash Bandicoot existed yet."
-  logo: "/images/logos/crash.png"
-  url: "https://crashbandicootwiki.com/"
-  mainpage: "Main_Page"
-  discord: "c4F2rRc"
-- member:
   id: "cookierunwiki"
   name: "Cookie Run Wiki"
   description: "The Cookie Run Wiki is an independent, collaborative wiki that covers everything about the Cookie Run franchise and its various universes. From coverage on characters and game mechanics to stories and world lore, this wiki is your go-to resource for any information related to any game in the Cookie Run series."
@@ -25,6 +17,14 @@
   twitter: "crwiki"
   facebook: "cookierunwiki"
   bluesky: "cookierun.wiki"
+- member:
+  id: "crashbandicootwiki"
+  name: "Crash Bandicoot Wiki"
+  description: "Crash Bandicoot Wiki covers the entire Crash Bandicoot franchise. It was created partially in response to Super Mario Wiki's 2017 April Fool's joke, when they briefly rebranded as 'Crash Bandicoot Wiki.' Two years later, in 2019, a few people made it into reality, as no independent wiki for Crash Bandicoot existed yet."
+  logo: "/images/logos/crash.png"
+  url: "https://crashbandicootwiki.com/"
+  mainpage: "Main_Page"
+  discord: "c4F2rRc"
 - member:
   id: "cyberflixwiki"
   name: "Cyberflix Wiki"
