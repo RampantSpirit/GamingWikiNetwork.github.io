@@ -13,8 +13,12 @@ We have {{site.data.affiliates.size}} affiliates at present. Our affiliates cons
   </td>
   <td>
     <a href="{{affiliate.url}}">{{affiliate.name}}</a><br>{{affiliate.description}}
-    {% if affiliate.discord or affiliate.twitter or affiliate.instagram or affiliate.facebook %}
+    {% if affiliate.bluesky or affiliate.discord or affiliate.twitter or affiliate.instagram or affiliate.tumblr or affiliate.facebook %}
         <br>
+    {% endif %}
+    
+    {% if affiliate.bluesky %} 
+        <a title="Bluesky" href="https://bsky.app/profile/{{ affiliate.bluesky }}"><i class="discord-icon bluesky"></i></a>
     {% endif %}
     
     {% if affiliate.discord %} 
@@ -29,8 +33,12 @@ We have {{site.data.affiliates.size}} affiliates at present. Our affiliates cons
         <a title="Instagram" href="https://instagram.com/{{ affiliate.instagram }}"><i class="discord-icon instagram"></i></a>
     {% endif %}
     
+    {% if affiliate.tumblr %} 
+        <a title="Tumblr" href="https://{{ affiliate.tumblr }}.tumblr.com"><i class="discord-icon tumblr"></i></a>
+    {% endif %}
+    
     {% if affiliate.twitter %} 
-        <a title="Twitter" href="https://twitter.com/{{ affiliate.twitter }}"><i class="discord-icon twitter"></i></a>
+        <a title="X (formerly Twitter)" href="https://x.com/{{ affiliate.twitter }}"><i class="discord-icon twitter"></i></a>
     {% endif %}
   </td>
  </tr>

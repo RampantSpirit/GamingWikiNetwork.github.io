@@ -13,8 +13,12 @@ The GWN currently consists of {{site.data.members.size}} member wikis. You can f
   </td>
   <td>
     <a href="{{member.url}}">{{member.name}}</a>{% if member.age %} ({{member.age}}) {% endif%}<br>{{member.description}}
-    {% if member.discord or member.twitter or member.instagram or member.facebook %}
+    {% if member.bluesky or member.discord or member.tumblr or member.twitter or member.instagram or member.facebook %}
         <br>
+    {% endif %}
+    
+    {% if member.bluesky %} 
+        <a title="Bluesky" href="https://bsky.app/profile/{{ member.bluesky }}"><i class="discord-icon bluesky"></i></a>
     {% endif %}
     
     {% if member.discord %} 
@@ -29,8 +33,12 @@ The GWN currently consists of {{site.data.members.size}} member wikis. You can f
         <a title="Instagram" href="https://instagram.com/{{ member.instagram }}"><i class="discord-icon instagram"></i></a>
     {% endif %}
     
+    {% if member.tumblr %} 
+        <a title="Tumblr" href="https://{{ member.tumblr }}.tumblr.com"><i class="discord-icon tumblr"></i></a>
+    {% endif %}
+    
     {% if member.twitter %} 
-        <a title="Twitter" href="https://twitter.com/{{ member.twitter }}"><i class="discord-icon twitter"></i></a>
+        <a title="X (formerly Twitter)" href="https://x.com/{{ member.twitter }}"><i class="discord-icon twitter"></i></a>
     {% endif %}
   </td>
  </tr>
