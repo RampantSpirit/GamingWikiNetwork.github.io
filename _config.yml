@@ -17,20 +17,15 @@ avatar: https://gamingwikinetwork.org/images/Logo-GamingWikiNetwork.png
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
+  bluesky: gamingwikinetwork.org
   discord: pCfH7uk9jh
   email:
   facebook: GamingWikiNetwork
-  flickr:
   github: GamingWikiNetwork/GamingWikiNetwork.github.io
   instagram: GamingWikiNetwork
-  linkedin:
-  pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: rss # just type anything here for a working RSS icon
   twitter: GamingWikiNet
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts

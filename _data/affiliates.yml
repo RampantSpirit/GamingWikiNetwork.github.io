@@ -32,6 +32,7 @@
   description: "The Square Enix Indpendent Wiki Alliance, or SEIWA, is a network of independent wikis established in 2011 and focused on providing high-quality coverage of Square Enix and its content."
   logo: "/images/logos/SEIWA.png"
   url: "https://seiwanetwork.org/"
+  bluesky: "seiwanetwork.bsky.social"
   discord: "tAHWTS8"
   twitter: "SEIWANetwork"
 - affiliate:

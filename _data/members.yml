@@ -39,6 +39,7 @@
   logo: "/images/logos/discoelysiumwiki.png"
   url: "https://discoelysium.wiki.gg/"
   mainpage: ""
+  bluesky: "discoelysiumwiki.bsky.social"
   discord: "DxYSDEEaYd"
   age: 18+
 - member:
@@ -57,8 +58,10 @@
   logo: "/images/logos/fallout.png"
   url: "https://fallout.wiki/"
   mainpage: "Fallout_Wiki"
+  bluesky: "fallout.wiki"
   discord: "falloutwiki"
   twitter: "thefalloutwiki"
+  tumblr: "thefalloutwiki"
   instagram: "thefalloutwiki"
   age: 18+
 - member:
@@ -68,8 +71,10 @@
   logo: "/images/logos/medievil.png"
   url: "https://medievil.wiki/"
   mainpage: "Main_Page"
+  bluesky: "medievil.wiki"
   facebook: Gallowpedia
   discord: "S7PSNrVNxt"
+  tumblr: "gallowpedia"
   twitter: "MediEvilWiki"
   instagram: "MediEvilWiki"
 - member:
@@ -87,7 +92,9 @@
   logo: "/images/logos/hollowknight.png"
   url: "https://hollowknight.wiki/"
   mainpage: "Hollow_Knight_Wiki"
+  bluesky: "hollowknight.wiki"
   discord: "vNba7HW"
+  tumblr: "hollow-knight-wiki"
   twitter: "HollowKnightWik"
 - member:
   id: "jiggywikki"
@@ -104,6 +111,7 @@
   logo: "/images/logos/khdatabase.png"
   url: "https://www.khdatabase.com/"
   mainpage: "Main_Page"
+  bluesky: "khdatabase.com"
   discord: "Frt564B"
   facebook: "KHDatabase"
   twitter: "KHDatabase"
@@ -114,6 +122,7 @@
   logo: "/images/logos/finalfantasy.png"
   url: "https://finalfantasywiki.com/"
   mainpage: "Main_Page"
+  bluesky: "ffwiki.bsky.social"
   discord: "PBDCHYq"
   twitter: "theFFWiki"
   age: 18+
@@ -147,7 +156,7 @@
 - member:
   id: "rarewiki"
   name: "Rare Wiki"
-  description: "Rare Wiki is a wiki dedicated to covering Rare Ltd. and their franchises (except for Banjo-Kazooie and Conker, as in-depth coverage of these two franchises can be found at Jiggywikki and Conker Wiki respectively)."
+  description: "Rare Wiki is a wiki dedicated to covering Rare Ltd. and their franchises (except for Banjo-Kazooie, as in-depth coverage of the franchise can be found at Jiggywikki)."
   logo: "/images/logos/rare.png"
   url: "https://rarewiki.com/"
   mainpage: "Main_Page"
@@ -169,7 +178,9 @@
   logo: "/images/logos/saintsrow.png"
   url: "https://saintsrow.wiki/landing"
   mainpage: "Saints_Row_Wiki"
+  bluesky: "saintsrow.wiki"
   twitter: "saintsrowwiki"
+  tumblr: "saintsrowwiki"
   age: 18+
 - member:
   id: "sagawiki"
@@ -186,6 +197,7 @@
   logo: "/images/logos/spyro.png"
   url: "https://spyrowiki.com/"
   mainpage: "Main_Page"
+  bluesky: "spyrowiki.com"
   discord: "c4F2rRc"
 - member:
   id: "stowiki"
@@ -194,6 +206,7 @@
   logo: "/images/logos/stowiki.png"
   url: "https://stowiki.net/"
   mainpage: "Main_Page"
+  bluesky: "sto.wiki"
   discord: "hJ98RgJ"
   twitter: "trekonlinewiki"
 - member:
@@ -212,7 +225,6 @@
   logo: "/images/logos/tomclancywiki.png"
   url: "https://tomclancy.wiki.gg/"
   mainpage: "Tom_Clancy_Wiki"
-  discord: "6JFzHSk8Zj"
   age: 18+
 - member:
   id: "triforcewiki"
@@ -237,5 +249,6 @@
   logo: "/images/logos/WizardryWiki.png"
   url: "https://wizardry.wiki.gg"
   mainpage: "Wizardry_Wiki"
+  bluesky: "wizardrywiki.bsky.social"
   discord: "cknNfGG7YC"
   twitter: "WizardryWiki"
