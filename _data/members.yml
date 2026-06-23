@@ -154,6 +154,13 @@
   discord: "owb"
   age: 18+
 - member:
+  id: "quicksilvervault"
+  name: "Quicksilver Vault"
+  description: "The Quicksilver Vault, established in 2024, aims to be the most complete and thoroughly researched trove of information on the internet for the Skylanders franchise."
+  logo: "/images/logos/quicksilvervault.png"
+  url: "https://skylanderswiki.miraheze.org/wiki/Main_Page"
+  mainpage: "Main_Page"
+- member:
   id: "rarewiki"
   name: "Rare Wiki"
   description: "Rare Wiki is a wiki dedicated to covering Rare Ltd. and their franchises (except for Banjo-Kazooie, as in-depth coverage of the franchise can be found at Jiggywikki)."
