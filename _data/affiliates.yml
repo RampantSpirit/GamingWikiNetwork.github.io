@@ -20,6 +20,12 @@
   url: "https://sanriowiki.com"
   mainpage: "Sanrio_Wiki"
 - affiliate:
+  id: "sephiriawiki"
+  name: "Sephiria Wiki"
+  description: "An unofficial player Wiki for the current version of Sephiria, a game by Team Horay."
+  logo: "/images/logos/SephiriaWiki.png"
+  url: "https://sephiriawiki.online/"
+- affiliate:
   id: "seiwa"
   name: "Square Enix Independent Wiki Alliance (SEIWA)"
   description: "The Square Enix Indpendent Wiki Alliance, or SEIWA, is a network of independent wikis established in 2011 and focused on providing high-quality coverage of Square Enix and its content."
