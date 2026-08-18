@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2026-08-17
+date: 2026-08-18
 title: "Sephiria Wiki is our latest affiliate!"
 published: true
 ---
